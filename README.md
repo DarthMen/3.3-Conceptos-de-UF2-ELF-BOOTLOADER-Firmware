@@ -1,8 +1,6 @@
-# templete-picow
-Para trabajos de microcontroladores
+# 3.3 Conceptos de UF2, ELF, BOOTLOADER, Firmware
 
-# Ver el directorio de /code/ para como documentar un programa con sus pantallas, etc.
-
+# 
 ```C
 /*
  * Nombre del Archivo: main.c
